@@ -163,6 +163,9 @@ body {
   color: #000;
   border-color: #fff;
 }
+.snapchat:hover .social-icon {
+  filter: brightness(0);
+}
 .telegram:hover {
   background: linear-gradient(135deg, #2aabee, #229ed9);
   border-color: #fff;
